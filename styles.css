@@ -610,7 +610,7 @@ img {
   transition: all var(--transition-fast);
   position: relative;
   overflow: hidden;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.03);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.03);
 }
 
 /* Subtle gold glow effect on hover */
@@ -689,7 +689,7 @@ img {
 
 .team-card {
   background-color: var(--color-primary);
-  box-shadow: 0 4px 10px 25px rgba(0, 0, 0, 0.35);
+  box-shadow: 0 4px 10px 15px rgba(0, 0, 0, 0.35);
   border-top: 3px solid var(--color-secondary);
   padding: 3rem 2rem;
   text-align: center;
